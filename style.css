@@ -1,0 +1,63 @@
+body{
+    padding: none; 
+    margin: 0px;
+    font-family: 'Playfair Display', serif;
+    background-image: url(img/vintage-skull-pattern-black-background_53876-98031.avif);
+    
+}
+
+main{
+    width: 50%;
+    background: rgb(0, 0, 0, .5);
+    margin: 0 auto;
+    width: 700px;
+}
+header{ 
+    height: 90px; 
+    width: 50%;
+    background:  rgb(0, 0, 0, .5); 
+    margin: 0 auto; 
+    width: 700px;
+    }
+
+    
+h1{ 
+    text-align: center; 
+    font-size: 50px; 
+    
+    color:rgb(203, 28, 28); 
+    margin: 0px; 
+    line-height: 90px;
+font-weight: 900;}
+
+
+iframe{
+    display:block;
+    margin:auto;
+    margin-top: 20px;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    color:rgb(203, 28, 28);
+    font-weight: 900;
+}
+
+img{
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p{
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 650px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    color: white;
+}
+
